@@ -1,0 +1,5 @@
+path,role,observed_in
+/cpc/api/task,task polling,shared_prefs/abs.xml (KEY_TASK_API)
+/cpc/api/report,reporting,shared_prefs/abs.xml (KEY_REPORT_API)
+/cpc/api/device?taskId=3&pname=com.adx&limitSdkInt=29&limitSdkInt=27,device profile / User-Agent for spoofing,shared_prefs/mo_script.xml (decoded JS)
+/456.html,hidden WebView landing page on 5.180.41.9:81,shared_prefs/mo_script.xml (decoded)

@@ -1,0 +1,13 @@
+path,description
+/data/app/com.android.media.module.services-*/base.apk,malware APK
+/data/data/com.android.media.module.services/files/prodexdir/0OO00l111l1l,encrypted main payload (3104332 bytes)
+/data/data/com.android.media.module.services/files/prodexdir/00O000ll111l_0.dex,decrypted main dex (7069900 bytes)
+/data/data/com.android.media.module.services/files/.temp/3585027873.jar,stage-2 plugin (130188 bytes)
+/data/data/com.android.media.module.services/files/Download/MO_DOWN/load,downloaded MO module (55893 bytes)
+/data/data/com.android.media.module.services/files/oat/arm/sdk.vdex,compiled runtime-loaded sdk.jar
+/data/data/com.android.media.module.services/shared_prefs/abs.xml,C2 hosts and API paths
+/data/data/com.android.media.module.services/shared_prefs/STORE_MAIN.xml,fabricated IMEI/IMSI and poll interval
+/data/data/com.android.media.module.services/shared_prefs/AD_SERVICE.xml,per-module enablement rules
+/data/data/com.android.media.module.services/shared_prefs/mo_script.xml,Base64 JS task for hidden WebView
+/data/data/com.android.media.module.services/tx_shell/,packer working directory
+/system/bin/dangbei_cpa_init.sh,"firmware: copies /system/etc/dblist to /data on first boot (init service cpcparulse)"

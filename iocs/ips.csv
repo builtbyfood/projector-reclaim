@@ -1,0 +1,5 @@
+ip,port,role,observed_in
+5.180.41.9,81,landing page loaded in hidden WebView (http://5.180.41.9:81/456.html),shared_prefs/mo_script.xml (decoded)
+47.106.197.183,8802,hardcoded HTTP endpoint,stage-2 plugin (assets/fxwr) strings
+39.108.226.196,8801,hardcoded HTTP endpoint,stage-2 plugin (assets/fxwr) strings
+182.98.48.250,,public IP cached at first run 2023-12-22 (factory/distributor network; not malicious infrastructure),shared_prefs/STORE_MAIN.xml

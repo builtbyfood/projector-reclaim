@@ -1,0 +1,12 @@
+# projector-reclaim .gitignore v1.0.1
+# Never commit device images, malware samples, or audit dumps.
+backup/
+evidence/
+audit/
+*.img
+*.img.gz
+*.apk
+*.dex
+*.jar
+*.keystore
+launcher/build/

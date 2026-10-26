@@ -1,0 +1,5 @@
+domain,role,observed_in,also_reported_by
+task.ad3g.com,task/report C2 (http+https),shared_prefs/abs.xml,HUMAN BADBOX 2.0 C2 list (ad3g.com); Nokia Deepfield
+task.ipmoyu.com,task/report C2 (http+https),shared_prefs/abs.xml,HUMAN BADBOX 2.0 C2 list (ipmoyu.com); MoYu residential proxy brand
+ad3g.com,parent domain of C2,shared_prefs/abs.xml,HUMAN BADBOX 2.0
+ipmoyu.com,parent domain of C2,shared_prefs/abs.xml,HUMAN BADBOX 2.0

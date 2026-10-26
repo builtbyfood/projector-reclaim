@@ -1,0 +1,8 @@
+package,role,notes
+com.android.media.module.services,malware host app,"In /data/app despite com.android.* name; label MediaServices; installed by com.zeasn.whale.saas"
+com.ad.service.*,malware internal namespace,"17 services: Control, Moyu, Mz, MzNew, Devour, Cook, CookMicro, MO, ZX, BirdBox, MqzGriffen, IopSdk, WoranSdk, Pangolin, OverSea, Shfo, Refc6"
+com.google.kanku.lite.*,malware internal namespace (impersonates Google),"CukeReceiver (PACKAGE_ADDED/REMOVED/REPLACED), CukanService, KaKukanService"
+com.android.support.v4.*,stage-2 plugin namespace (impersonates Support Library),"Inside assets/fxwr; plugin loader, reporter, proxy-agent beans"
+com.zeasn.whale.saas,installer of record (vendor launcher),"Holds INSTALL_PACKAGES, DELETE_PACKAGES, MASTER_CLEAR, REBOOT, DOWNLOAD_WITHOUT_NOTIFICATION; not itself analyzed"
+com.zeasn.deviceportal.asdprovider.kystar_hisi352,vendor OTA,"Holds INSTALL_PACKAGES, RECOVERY, REBOOT; not itself analyzed"
+cn.zeasn.projector.public.vstoresubclient.kystar,vendor app store,"Installer of record for Disney+; not itself analyzed"

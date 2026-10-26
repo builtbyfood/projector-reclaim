@@ -1,0 +1,5 @@
+domain,role,observed_in
+pv.sohu.com,IP geolocation lookup (benign service abused),stage-2 plugin strings
+opendata.baidu.com,IP geolocation lookup (benign service abused),stage-2 plugin strings
+ip-api.com,IP geolocation lookup (benign service abused),stage-2 plugin strings
+ip.360.cn,IP geolocation lookup (benign service abused),stage-2 plugin strings

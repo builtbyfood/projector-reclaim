@@ -1,0 +1,6 @@
+type,value,description,source
+sha256,8feb04cd51c5340dd1172bbcd1f89a5107f11c6ba4d38b0f6e4906329e4aca86,com.android.media.module.services v1.0.34.38 APK,this analysis
+sha1,ae11c1f515e72443eb1816097f4e8b6336ae46c8,com.android.media.module.services v1.0.34.38 APK,this analysis
+md5,27a8b1f687c8e07043b61368ca6eb035,com.android.media.module.services v1.0.34.38 APK,this analysis
+cert_sha256,b0a71babf3c7cb18ba80df3c7bffd3a5ba89da32e5d37a31c63504133fcc5c74,"Signing cert CN=socket, OU=China, O=China, L=China, ST=China, C=CH",this analysis
+cert_sha1,5097619e2992c024ca7a73b1a9cb81cf05cff23e,"Signing cert CN=socket, OU=China, O=China, L=China, ST=China, C=CH",this analysis
